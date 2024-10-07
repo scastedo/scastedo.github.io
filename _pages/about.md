@@ -16,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am currently in my second year of a PhD in **Statistical Physics** under the supervision of [Remi Monasson](http://www.phys.ens.fr/~monasson/) at the **ENS** in Paris. Last summer, I graduated with a first-class Master's in Physics from the **University of Manchester**.
+I am currently in my second year of a PhD in **Statistical Physics** under the supervision of [Remi Monasson](http://www.phys.ens.fr/~monasson/) at the **ENS** in Paris. In 2023, I graduated with a first-class Master's in Physics from the **University of Manchester**.
 
 In my research, I am exploring the intricate trade-offs between performance and energy consumption in neural networks, both natural and artificial. By harnessing tools from statistical physics, collaborating with neurobiologists, and employing artificial neural networks, we hope to advance the understanding of the fundamental principles governing computation efficiency and resource adaptation in neural systems.
 
